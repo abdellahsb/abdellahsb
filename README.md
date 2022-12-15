@@ -1,3 +1,52 @@
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "Abdellah" | "SABRI",
+    code: ["Javascript", "HTML", "Python", "Java", "CSharp", "Typescript"],
+    askMeAbout: ["Web Dev", "Tech", "Design", "Software Development", "Content Writing"],
+    technologies: {
+        frontEnd: {
+            js: ["Angular", "jQuery"],
+            css: ["CSS3", "Tailwind", "Bootstrap", "Primeng", "KendoUi"]
+        },
+        backEnd: {
+            python: ["Django"]
+            CSharp
+        },
+        devOps: ["Jenkins"], ["Azure"]
+        databases: ["SqlServer", "MySql", "sqlite", "phpMyAdmin", "Oracle"],
+    },
+    currentProject: "Enhancing my present skill set and searching for new chances at the same time.",
+};
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=Detecting-COVID-19-from-X-Ray" />
+  </a>
+  <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmolpant&repo=ULMFiT-Sentiment" />
+  </a>
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
 
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
