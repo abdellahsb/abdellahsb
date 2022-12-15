@@ -41,7 +41,7 @@ const anmol = {
   <a href="mailto:contact@abdellahsabri.com" target="_blank">
     <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/Ratheshan_03" target="_blank">
+  <a href="https://twitter.com/3bdellahsb" target="_blank">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
   <a href="https://www.instagram.com/abdellahsabricom/" target="_blank">
