@@ -35,21 +35,21 @@ const anmol = {
 
 <h4><img src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="50"> Connect with me...</h4>
 
-<a href="https://www.linkedin.com/in/abdellahsabri/">
+<a href="https://www.linkedin.com/in/abdellahsabri/" target="_blank">
    <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:contact@abdellahsabri.com">
+  <a href="mailto:contact@abdellahsabri.com" target="_blank">
     <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/Ratheshan_03">
+  <a href="https://twitter.com/Ratheshan_03" target="_blank">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="24px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
-  <a href="https://www.instagram.com/abdellahsabricom/">
+  <a href="https://www.instagram.com/abdellahsabricom/" target="_blank">
     <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/abdellahsabri.fb">
+   <a href="https://www.facebook.com/abdellahsabri.fb" target="_blank">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="24px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
-   <a href="https://github.com/abdellahsb">
+   <a href="https://github.com/abdellahsb" target="_blank">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="24px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
